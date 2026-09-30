@@ -71,10 +71,6 @@ GET /api/records — таблица рекордов (JSON).
 
 GET /api/info — информация о сервере.
 
-👤 Об авторе
-NoiZoN — студент 2-го курса IT Хаба.
-Пишу на Python и C#, делаю игры и учусь превращать идеи в код.
-
 https://img.shields.io/badge/GitHub-noizon-181717?style=for-the-badge&logo=github
 https://img.shields.io/badge/Telegram-@NoiZoNxSolo-2CA5E0?style=for-the-badge&logo=telegram
 
@@ -83,5 +79,3 @@ https://img.shields.io/badge/Telegram-@NoiZoNxSolo-2CA5E0?style=for-the-badge&lo
 GitHub: @noizon
 
 Telegram: @NoiZoNxSolo
-
-⭐ Если проект тебе понравился — поставь звёздочку, мне будет приятно!
